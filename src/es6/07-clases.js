@@ -71,4 +71,8 @@ class user {
 
 const bbloper = new user('david', 15)
 console.log(bbloper.uAge)
-console.log(bbloper.uAge = 20)
+console.log(bbloper.uAge = 2
+
+)
+
+// hola
